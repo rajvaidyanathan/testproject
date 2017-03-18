@@ -11,3 +11,4 @@ http://stackoverflow.com/questions/30172378/sql-select-to-get-a-string-between-t
 http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
 https://social.technet.microsoft.com/wiki/contents/articles/17948.t-sql-right-left-substring-and-charindex-functions.aspx
 https://msdn.microsoft.com/en-us/library/ms177601.aspx
+http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
