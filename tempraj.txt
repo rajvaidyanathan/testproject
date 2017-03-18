@@ -1,0 +1,13 @@
+http://blog.hackerearth.com/practical-guide-to-clustering-algorithms-evaluation-in-r
+http://setosa.io/ev/eigenvectors-and-eigenvalues/
+http://www.sphinx-doc.org/en/stable/
+http://www.investopedia.com/terms/t/t-test.asp
+https://en.wikipedia.org/wiki/Student%27s_t-test
+http://www.statisticallysignificantconsulting.com/Ttest.htm
+http://blog.minitab.com/blog/statistics-and-quality-data-analysis/what-is-a-t-test-and-why-is-it-like-telling-a-kid-to-clean-up-that-mess-in-the-kitchen
+
+
+http://stackoverflow.com/questions/30172378/sql-select-to-get-a-string-between-two-spaces
+http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
+https://social.technet.microsoft.com/wiki/contents/articles/17948.t-sql-right-left-substring-and-charindex-functions.aspx
+https://msdn.microsoft.com/en-us/library/ms177601.aspx
